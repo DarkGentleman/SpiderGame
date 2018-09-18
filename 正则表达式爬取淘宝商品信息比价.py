@@ -1,3 +1,4 @@
+#请注意：此例仅探讨技术实现，请勿不加限制地爬取该网站
 import requests
 import re
 
