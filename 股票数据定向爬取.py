@@ -55,7 +55,7 @@ def getStockInfo(lst, stockURL, fpath):
 def main():
     stock_list_url = 'http://quote.eastmoney.com/stocklist.html'
     stock_info_url = 'https://gupiao.baidu.com/stock/'
-    output_file = '/home/cai/stockinfolist.py'
+    output_file = '/home/cai/stockinfolist.txt'
     slist = []
     getStockList(slist, stock_list_url)
     getStockInfo(slist, stock_info_url, output_file)
