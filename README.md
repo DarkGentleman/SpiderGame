@@ -1,4 +1,5 @@
 爬虫项目练手<br>
+项目（七）：股票信息数据定向爬取。[爬股票数据](https://github.com/DarkGentleman/SpiderGame/blob/master/%E8%82%A1%E7%A5%A8%E6%95%B0%E6%8D%AE%E4%BF%A1%E6%81%AF%E7%88%AC%E5%8F%96.py "爬股票数据")<br>
 项目（六）：利用正则表达式爬取淘宝商品信息。[爬淘宝](https://github.com/DarkGentleman/SpiderGame/blob/master/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%88%AC%E5%8F%96%E6%B7%98%E5%AE%9D%E5%95%86%E5%93%81%E4%BF%A1%E6%81%AF%E6%AF%94%E4%BB%B7.py "仅作技术探讨，请勿不加限制爬取")<br>
 项目（一）：爬取豆瓣推荐前250本图书信息（书名、作者、评分、简介），并且生成txt文档保存在本地。[爬豆瓣](https://github.com/DarkGentleman/SpiderGame/blob/master/%E7%88%AC%E5%8F%96%E8%B1%86%E7%93%A3%E6%8E%A8%E8%8D%90%E7%9A%84%E5%A5%BD%E4%B9%A6%E4%BF%A1%E6%81%AF.py "推荐250本好书")<br>
 项目（二）：中国大学排名定向爬取（技术路线：requests-bs4）[爬大学排名](https://github.com/DarkGentleman/SpiderGame/blob/master/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%E5%AE%9A%E5%90%91%E7%88%AC%E5%8F%96.py "不准&太水")<br>
