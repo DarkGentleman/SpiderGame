@@ -1,15 +1,15 @@
-# 爬虫项目练手<br>
+### 爬虫项目练手<br>
 项目（八）:scrapy框架爬取股票信息<br>
-##### 步骤1：建立工程和Spider模板<br>
+###### 步骤1：建立工程和Spider模板<br>
 * $scrapy startproject BaiduStocks<br>
 * $cd BaiduStocks<br>
 * $scrapy genspider stocks baidu.com<br>
-##### 步骤2：编写Spider<br>
+###### 步骤2：编写Spider<br>
 * 配置stocks.py文件<br>
-##### 步骤3：编写ITEM Pipelines<br>
+###### 步骤3：编写ITEM Pipelines<br>
 * 配置pipelines.py文件<br>
 * 配置ITEM_PIPELINES选项，配置settings.py<br>
-##### 程序执行——$scrapy crawl stocks<br>
+###### 程序执行——$scrapy crawl stocks<br>
 
 项目（七）：股票信息数据定向爬取。[爬股票数据](https://github.com/DarkGentleman/SpiderGame/blob/master/%E8%82%A1%E7%A5%A8%E6%95%B0%E6%8D%AE%E4%BF%A1%E6%81%AF%E7%88%AC%E5%8F%96.py "爬股票数据")<br>
 项目（六）：利用正则表达式爬取淘宝商品信息。[爬淘宝](https://github.com/DarkGentleman/SpiderGame/blob/master/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%88%AC%E5%8F%96%E6%B7%98%E5%AE%9D%E5%95%86%E5%93%81%E4%BF%A1%E6%81%AF%E6%AF%94%E4%BB%B7.py "仅作技术探讨，请勿不加限制爬取")<br>
