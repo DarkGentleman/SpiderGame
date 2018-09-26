@@ -5,10 +5,10 @@
 * $cd BaiduStocks<br>
 * $scrapy genspider stocks baidu.com<br>
 ###### 步骤2：编写Spider<br>
-* 配置stocks.py文件<br>
+* 配置[stocks.py](https://github.com/DarkGentleman/SpiderGame/blob/master/stocks.py "编写spider")文件<br>
 ###### 步骤3：编写ITEM Pipelines<br>
-* 配置pipelines.py文件<br>
-* 配置ITEM_PIPELINES选项，配置settings.py<br>
+* 配置[pipelines.py](https://github.com/DarkGentleman/SpiderGame/blob/master/pipelines.py "编写pipelines")文件<br>
+* 配置ITEM_PIPELINES选项，配置[settings.py](https://github.com/DarkGentleman/SpiderGame/blob/master/settings.py "配置ITEM_PIPELINES选项")<br>
 ###### 程序执行——$scrapy crawl stocks<br>
 
 项目（七）：股票信息数据定向爬取。[爬股票数据](https://github.com/DarkGentleman/SpiderGame/blob/master/%E8%82%A1%E7%A5%A8%E6%95%B0%E6%8D%AE%E4%BF%A1%E6%81%AF%E7%88%AC%E5%8F%96.py "爬股票数据")<br>
