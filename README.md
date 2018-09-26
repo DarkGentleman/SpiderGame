@@ -4,7 +4,7 @@
 * $scrapy startproject BaiduStocks<br>
 * $cd BaiduStocks<br>
 * $scrapy genspider stocks baidu.com<br>
-步骤2：编写Spider<br>
+#步骤2：编写Spider<br>
 * 配置stocks.py文件<br>
 步骤3：编写ITEM Pipelines<br>
 * 配置pipelines.py文件<br>
