@@ -1,12 +1,12 @@
 ### 爬虫项目练手<br>
-项目（九）:scrapy爬取网站所有1000本图书书名和价格信息
+`项目（九）:scrapy爬取网站所有1000本图书书名和价格信息`
 ###### 步骤1：创建项目<br>
 * $scrapy startproject example<br>
 ###### 步骤2：编写Spider<br>
 * 在example/spiders目录下创建并编写爬虫文件book_spider.py<br>
 ###### 步骤3：运行爬虫并将数据存储到csv文件中<br>
 * scrapy crawl books -o books.csv<br>
-项目（八）:scrapy框架爬取股票信息<br>
+`项目（八）:scrapy框架爬取股票信息<br>`
 ###### 步骤1：建立工程和Spider模板<br>
 * $scrapy startproject BaiduStocks<br>
 * $cd BaiduStocks<br>
