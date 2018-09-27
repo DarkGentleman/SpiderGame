@@ -8,7 +8,7 @@
 * scrapy crawl books -o books.csv<br>
 
 项目（八）:scrapy框架爬取股票信息<br>
-===
+----
 ###### 步骤1：建立工程和Spider模板<br>
 * $scrapy startproject BaiduStocks<br>
 * $cd BaiduStocks<br>
