@@ -6,6 +6,7 @@
 * 在example/spiders目录下创建并编写爬虫文件[book_spider.py](https://github.com/DarkGentleman/SpiderGame/blob/master/P9_book_spider.py "爬虫文件")<br>
 ###### 步骤3：运行爬虫并将数据存储到csv文件中<br>
 * scrapy crawl books -o books.csv<br>
+
 `项目（八）:scrapy框架爬取股票信息<br>`
 ###### 步骤1：建立工程和Spider模板<br>
 * $scrapy startproject BaiduStocks<br>
