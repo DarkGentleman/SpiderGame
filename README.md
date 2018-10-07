@@ -6,7 +6,7 @@
 * 在example/spiders目录下创建并编写爬虫文件[book_spider.py](https://github.com/DarkGentleman/SpiderGame/blob/master/P9_book_spider.py "爬虫文件")<br>
 ###### 步骤3：运行爬虫并将数据存储到csv文件中<br>
 * scrapy crawl books -o books.csv<br>
-##### 使用Item Pipeline处理数据，自定义Item Pipeline,实现爬取价格由英镑兑换成人民币。<br>
+##### 使用Item Pipeline处理数据，实现爬取价格由英镑兑换成人民币。<br>
 * [pipelines.py](https://github.com/DarkGentleman/SpiderGame/blob/master/P9_pipelines.py "处理数据")<br>
 * [settings.py](https://github.com/DarkGentleman/SpiderGame/blob/master/P9_settings.py "配置settings启用自定义后的Item Pipeline")<br>
 
